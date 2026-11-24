@@ -1,12 +1,8 @@
 {
-  "version": "2.11",
-  "date": "2026-11-20",
+  "version": "2.12",
+  "date": "2026-11-24",
   "lien": "https://secobelgium.sharepoint.com/:f:/s/AInstein/IgBgnpTGFebNR6jfAdYQ7K1qATfVLmtRxVLRV7Epn_NWncI?e=yAnCrq",
   "nouveautes": [
-    "Projets › « Retrouver les dossiers… » : retrouve en une fois les dossiers des projets à partir du dossier OneDrive des sites SharePoint synchronisés (changement de navigateur ou de PC, dossiers qui ne répondent plus).",
-    "Dossiers mémorisés qui ne répondent plus : signalés (colonne Sauvegarde et bandeau) au lieu de bloquer les exports sans message.",
-    "Bandeau « Dossier de sauvegarde introuvable » : boutons « Retrouver les dossiers… » et « Ignorer ».",
-    "Corrigé : un dépôt de fichiers pouvait rester sans suite.",
-    "Corrigé : changer « Notre référence » vers un autre numéro PSEB change aussi l'identifiant du projet partout."
+    "Interface en néerlandais : traductions complétées dans plusieurs fenêtres (nouvelle base, imports, indice, colonnes, aperçu d'un lot, conflit, retrouver les dossiers)."
   ]
 }
