@@ -1,8 +1,11 @@
 {
-  "version": "2.13",
+  "version": "2.14",
   "date": "2026-11-24",
   "lien": "https://secobelgium.sharepoint.com/:f:/s/AInstein/IgBgnpTGFebNR6jfAdYQ7K1qATfVLmtRxVLRV7Epn_NWncI?e=yAnCrq",
   "nouveautes": [
-    "Interface en néerlandais : traductions complétées dans plusieurs fenêtres (nouvelle base, imports, indice, colonnes, aperçu d'un lot, conflit, retrouver les dossiers)."
+    "Menu réorganisé : « Remarques » (ancien Encodage) en premier et mis en avant, puis Tableau de bord et Timesheet ; « Gestion des projets » (ancien Projets) à droite.",
+    "Nouveaux raccourcis : Alt+1 Remarques, Alt+2 Tableau de bord, Alt+3 Timesheet, Alt+4 Gestion des projets.",
+    "Base sans projet : accueil avec « + Nouveau projet » et « Importer un projet… ».",
+    "Interface en néerlandais : dernières traductions complétées."
   ]
 }
