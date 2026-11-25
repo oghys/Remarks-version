@@ -1,11 +1,11 @@
 {
-  "version": "2.14",
-  "date": "2026-11-24",
+  "version": "2.15",
+  "date": "2026-11-25",
   "lien": "https://secobelgium.sharepoint.com/:f:/s/AInstein/IgBgnpTGFebNR6jfAdYQ7K1qATfVLmtRxVLRV7Epn_NWncI?e=yAnCrq",
   "nouveautes": [
-    "Menu réorganisé : « Remarques » (ancien Encodage) en premier et mis en avant, puis Tableau de bord et Timesheet ; « Gestion des projets » (ancien Projets) à droite.",
-    "Nouveaux raccourcis : Alt+1 Remarques, Alt+2 Tableau de bord, Alt+3 Timesheet, Alt+4 Gestion des projets.",
-    "Base sans projet : accueil avec « + Nouveau projet » et « Importer un projet… ».",
-    "Interface en néerlandais : dernières traductions complétées."
+    "Ajouter des fichiers › « Classer une copie » : le dossier de destination est affiché et « Changer… » permet d'en choisir un autre (ou d'en créer un) ; le choix est retenu pour la section.",
+    "Les copies rangées dans un dossier retenu sont préférées par la recherche des fichiers par leur nom.",
+    "Lignes au numéro répété signalées en rouge dans « Ajouter des fichiers ».",
+    "Corrections : dossiers « .001 … » parcourus et affichés ; pièce jointe glissée depuis Outlook classée sans erreur."
   ]
 }
