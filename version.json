@@ -1,11 +1,8 @@
 {
-  "version": "2.15",
+  "version": "2.16",
   "date": "2026-11-25",
   "lien": "https://secobelgium.sharepoint.com/:f:/s/AInstein/IgBgnpTGFebNR6jfAdYQ7K1qATfVLmtRxVLRV7Epn_NWncI?e=yAnCrq",
   "nouveautes": [
-    "Ajouter des fichiers › « Classer une copie » : le dossier de destination est affiché et « Changer… » permet d'en choisir un autre (ou d'en créer un) ; le choix est retenu pour la section.",
-    "Les copies rangées dans un dossier retenu sont préférées par la recherche des fichiers par leur nom.",
-    "Lignes au numéro répété signalées en rouge dans « Ajouter des fichiers ».",
-    "Corrections : dossiers « .001 … » parcourus et affichés ; pièce jointe glissée depuis Outlook classée sans erreur."
+    "Interface en néerlandais : message de classement des copies traduit ; séparateur « spatie » dans « Bestanden toevoegen »."
   ]
 }
