@@ -1,8 +1,11 @@
 {
-  "version": "2.16",
-  "date": "2026-11-25",
+  "version": "2.17",
+  "date": "2026-11-27",
   "lien": "https://secobelgium.sharepoint.com/:f:/s/AInstein/IgBgnpTGFebNR6jfAdYQ7K1qATfVLmtRxVLRV7Epn_NWncI?e=yAnCrq",
   "nouveautes": [
-    "Interface en néerlandais : message de classement des copies traduit ; séparateur « spatie » dans « Bestanden toevoegen »."
+    "Plusieurs points par document, chacun avec son statut (« + point » ou Alt+Entrée) ; le document prend le statut le plus sévère.",
+    "Cadre « Remarque(s) générale(s) » (fenêtre Colonnes), imprimé en tête des exports.",
+    "Photos sous les remarques : glisser une image ou la coller (Ctrl+V) dans la remarque ; reprises dans le PDF.",
+    "Importer un lot : points et remarques générales acceptés."
   ]
 }
